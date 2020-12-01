@@ -1,0 +1,31 @@
+/*───────────────────────────────────-*/
+@media screen and (min-width: 350px) and (orientation: portrait) {
+    #main {
+        max-width: 350px;
+    }
+}
+
+@media screen and (min-width: 480px) and (orientation: landscape) {
+    #main {
+        margin: 3em 0 4em 0;
+    }
+}
+
+@media screen and (min-width: 768px) and (orientation: portrait) {
+    #main {
+        max-width: 100%;
+    }
+}
+
+@media screen and (min-width: 992px) and (orientation: landscape) {
+    #main {
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .socials-links a:hover {
+        border-bottom: 1px solid transparent;
+    }
+}
+/*───────────────────────────────────-*/

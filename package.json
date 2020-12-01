@@ -1,0 +1,11 @@
+{
+    "name": "personal",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "development": "serve"
+    },
+    "devDependencies": {
+        "serve": "11.3.2"
+    }
+}
